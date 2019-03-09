@@ -2,4 +2,4 @@
 exercises of data mining course
 
 new
-new 1   
+ ne nw new 1   
